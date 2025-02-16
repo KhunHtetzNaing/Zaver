@@ -78,7 +78,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/khunhtetznaing/Zaver' }
+      { icon: 'github', link: 'https://github.com/khunhtetznaing/zaver' }
     ]
   }
 })
