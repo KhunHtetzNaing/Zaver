@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Zaver",
   description: "🚀 Instantly save videos, images, and stories from TikTok, Instagram, Facebook, Twitter, and more—with just one tap! Effortlessly download your favorite content without watermarks or sign-ups.",
-  base: '/Zaver/',
+  base: '/zaver/',
   head: [
       [
       'link',
@@ -47,14 +47,14 @@ export default defineConfig({
       'meta',
       {
         property: 'og:image',
-        content: '/icons/play_store_feature_graphic.png'
+        content: 'https://khunhtetznaing.github.io/zaver/icons/play_store_feature_graphic.png'
       }
     ],
     [
       'meta',
       {
         property: 'og:url',
-        content: 'https://khunhtetznaing.github.io/Zaver'
+        content: 'https://khunhtetznaing.github.io/zaver'
       }
     ],
       ],
