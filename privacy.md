@@ -15,4 +15,4 @@ Link to the privacy policy of third-party service providers used by the app
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [khunhtetznaing@gmail.com](mailto:emojireplacer@gmail.com).
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [me@htetz.com](mailto:emojireplacer@gmail.com).
