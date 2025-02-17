@@ -3,14 +3,14 @@
     <channel>
         <title>New version available!</title>
         <item>
-            <title>Version 1.2.1</title>
+            <title>Version 1.0.0</title>
             <description>Minor updates and improvements.</description>
-            <enclosure url="https://khunhtetznaing.github.io/zaver" sparkle:version="1.2.1" sparkle:os="android" />
+            <enclosure url="https://khunhtetznaing.github.io/zaver" sparkle:version="1.0.0" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.2.1</title>
+            <title>Version 1.0.0</title>
             <description>Minor updates and improvements.</description>
-            <enclosure url="https://khunhtetznaing.github.io/zaver" sparkle:version="1.2.1" sparkle:os="iOS" />
+            <enclosure url="https://khunhtetznaing.github.io/zaver" sparkle:version="1.0.0" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
