@@ -6,6 +6,7 @@ export default defineConfig({
   description: "🚀 Instantly save videos, images, and stories from TikTok, Instagram, Facebook, Twitter, and more—with just one tap! Effortlessly download your favorite content without watermarks or sign-ups.",
   base: '/zaver/',
   head: [
+      ['link', { rel: 'icon', href: 'icons/favicon.ico' }],
       [
       'link',
       {
